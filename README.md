@@ -1,6 +1,5 @@
 # HTML_Portpholio
-This is my portfolio website made using HTML.
+This is my portfolio website made using HTML.<br><br>
 
-Click here to see the website <a href="https://manishgihub.github.io/HTML_Portpholio/>Click Here</a>
-
+<a href="https://manishgihub.github.io/HTML_Portpholio/">Click Here to see the website</a>
 
